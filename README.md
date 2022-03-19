@@ -1,4 +1,4 @@
-👋 Hi, I’m @shakedbogin
+👋 Hi, I’m Shaked Bogin (@shakedbogin)
 
 Passionate about data projects and solving problems using data-analysis tools, code, and technology. 
 Mission-focused, detail-oriented, thrive under pressure, eager to learn and improve.
